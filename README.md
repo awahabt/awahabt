@@ -5,13 +5,6 @@
 <p>I am a dedicated web developer currently in my 3rd year of Software Engineering. With a passion for creating efficient and innovative solutions, I specialize in transforming ideas into functional and engaging web experiences. </p>
 <br>
 
-<h2 align="left">Connect with me:</h2>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abdul-wahab-tahir-071b52242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdul-wahab-tahir-071b52242" height="30" width="40" /></a>
-<a href="https://instagram.com/awahabt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awahabt" height="30" width="40" /></a>
-</p>
-<br>
-
 <h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
@@ -30,12 +23,17 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=awahabt&show_icons=true&locale=en&layout=compact" alt="awahabt" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahabt&" alt="awahabt" /></p>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahabt&" alt="awahabt" /></p>
-<h2>Connect with Me: </h2>
-
-    ✉️ Email: awahabt11@gmail.com 
+<h2 align="left">Connect with me:</h2>
+<p align="left">
+<a href="https://linkedin.com/in/www.linkedin.com/in/abdul-wahab-tahir-071b52242" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abdul-wahab-tahir-071b52242" height="30" width="40" /></a>
+<a href="https://instagram.com/awahabt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awahabt" height="30" width="40" /></a>
+    <br>
+    <br>
+    ✉️ Email: awahabt11@gmail.com
+        
+</p>
 
 <p align="center">Let's create impactful web solutions together! ❤️ </p>
