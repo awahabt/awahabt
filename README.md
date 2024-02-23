@@ -23,7 +23,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahabt&" alt="awahabt" /></p>
+<p><img style="background-color: black; color: white;" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=awahabt&" alt="awahabt"  /></p>
 <br>
 
 <h2 align="left">Connect with me:</h2>
