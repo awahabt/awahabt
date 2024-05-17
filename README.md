@@ -1,5 +1,5 @@
 
-<h1 align="left">Hi 👋, I'm Abdul Wahab Tahir</h1>
+<h1 align="left">I'm Abdul Wahab Tahir</h1>
 
 I am a dedicated web developer currently in my 3rd year of Software Engineering. With a passion for creating efficient and innovative solutions, I specialize in transforming ideas into functional and engaging web experiences.
 
