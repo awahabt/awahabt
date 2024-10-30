@@ -37,11 +37,11 @@ I am a dedicated web developer currently in my 4th year of Software Engineering.
 
 <br/>
 <br/>
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=awahabt&theme=dark&hide_border=false)<br/>
+<h1>📊 GitHub Stats:</h1> <br/>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=awahabt&theme=dark&border_radius=2" alt="GitHub Streak" /></a><br/>
 <br/>
 <br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=awahabt&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/awahabt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/awahabt) 
